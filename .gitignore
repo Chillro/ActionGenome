@@ -1,0 +1,4 @@
+/dataset/Charades/Charades_v1_480
+/outputs/annotated_videos
+dataset/ActionGenome/annotations/person_bbox.pkl
+dataset/ActionGenome/annotations/object_bbox_and_relationship.pkl
